@@ -1,3 +1,3 @@
 # My Portfolio
 
-Heyy! Welcome to my Portfolio. It's coming up tomorrow when I learn HTML and CSS with Tanay Pratap on Youtube.
+Hello! This is my first Portfolio.
