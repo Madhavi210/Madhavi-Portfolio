@@ -38,6 +38,20 @@ body{
     
 
 }
+
+.hero {
+    padding: 2rem;
+    padding-top: 5rem;
+
+}
+
+.hero .hero-img {
+    max-width: 80%;
+    width: 350px;
+    display: block;
+    margin: auto;
+}
+
 a:hover{
 
     font-size: larger;
