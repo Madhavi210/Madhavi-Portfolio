@@ -136,6 +136,11 @@ footer{
     margin: auto;
 }
 
+.w{
+    border-radius: 2rem;
+    margin: 25px; 
+}
+
 .but1{
     class="but1"
 }
