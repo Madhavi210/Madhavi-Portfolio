@@ -141,6 +141,14 @@ footer{
     margin: 25px; 
 }
 
+.about-img{
+    max-width: 50%;
+    width: 350px;
+    display: block;
+    margin: auto;
+    padding-bottom: 0%;
+}
+
 .but1{
     class="but1"
 }
